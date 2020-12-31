@@ -1,0 +1,48 @@
+.test{
+    color:green;
+    text-align: center;
+}
+
+#navbarDropdown{
+    color: black
+}
+
+.img-tag{
+    width:85px
+}
+
+ .align{
+     text-align: center;
+ }
+
+ .logo{
+     float:left; width:95px;margin:10px;
+ 
+ }
+ .navbar-style{
+   
+     font-size: 19px;
+     font-weight: 300;
+     padding:20px;
+     /* font-family: 'Montserrat'; */
+   }
+   
+
+ .nav-row{
+     margin-top:100px
+ }
+
+ #contact{
+    background-color:#ffb16d;
+     color:white;
+     /* border: 1px solid black; */
+ }
+.nav-item{
+    border-radius: 7px ;
+    margin-left:4px
+}
+ .nav-item:hover{
+     background-color: #eff2f5;
+     border-radius: 7px;
+ }
+.contactus{float:right}
